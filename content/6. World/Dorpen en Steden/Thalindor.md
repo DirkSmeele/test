@@ -1,1 +1,0 @@
-Dorp in de [[Verdant Coil]]
