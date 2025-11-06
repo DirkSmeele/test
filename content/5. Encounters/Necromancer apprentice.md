@@ -2,11 +2,11 @@
 title: Necromancer apprentice
 tags: Encounter
 ---
-## 🧙‍♂️ Necromancer Apprentice — Spell Cards (Lvl 3 Caster)
+##  Necromancer Apprentice — Spell Cards (Lvl 3 Caster)
 
 ---
 
-#### 👤 **Necromancer Apprentice (CR 2)**
+####  **Necromancer Apprentice (CR 2)**
 
 _Humanoid (Medium), Chaotic Neutral_
 
@@ -31,7 +31,7 @@ _Humanoid (Medium), Chaotic Neutral_
         
     - Area becomes _difficult terrain_ until the end of next round.
 
-### 🪦 **Cantrip: Chill Touch**
+###  **Cantrip: Chill Touch**
 
 **Range:** 120 ft  
 **To Hit:** +5  
@@ -41,7 +41,7 @@ _Humanoid (Medium), Chaotic Neutral_
 
 ---
 
-### 🔔 **Cantrip: Toll the Dead**
+###  **Cantrip: Toll the Dead**
 
 **Range:** 60 ft  
 **Save:** WIS 13  
@@ -50,7 +50,7 @@ _Humanoid (Medium), Chaotic Neutral_
 
 ---
 
-### ✋ **Cantrip: Mage Hand**
+###  **Cantrip: Mage Hand**
 
 **Range:** 30 ft  
 **Effect:** Spectral hand can interact with small objects or trigger traps.  
@@ -58,7 +58,7 @@ _Humanoid (Medium), Chaotic Neutral_
 
 ---
 
-### 🛡️ **1st Level: Shield**
+###  **1st Level: Shield**
 
 **Casting Time:** Reaction (when hit by attack or targeted by Magic Missile)  
 **Effect:** +5 AC until start of next turn.  
@@ -67,7 +67,7 @@ _Humanoid (Medium), Chaotic Neutral_
 
 ---
 
-### 🧥 **1st Level: Mage Armor**
+###  **1st Level: Mage Armor**
 
 **Duration:** 8 hours  
 **Target:** Self  
@@ -76,7 +76,7 @@ _Humanoid (Medium), Chaotic Neutral_
 
 ---
 
-### 💥 **1st Level: Magic Missile**
+###  **1st Level: Magic Missile**
 
 **Range:** 120 ft  
 **Effect:** 3 darts (1d4 + 1 force each), auto-hit.  
@@ -85,7 +85,7 @@ _Humanoid (Medium), Chaotic Neutral_
 
 ---
 
-### ⚫ **2nd Level: Ray of Enfeeblement**
+###  **2nd Level: Ray of Enfeeblement**
 
 **Range:** 60 ft  
 **To Hit:** +5  
@@ -94,7 +94,7 @@ _Humanoid (Medium), Chaotic Neutral_
 
 ---
 
-### 🪞 **2nd Level: Mirror Image**
+###  **2nd Level: Mirror Image**
 
 **Casting Time:** 1 action  
 **Duration:** 1 minute  
@@ -104,7 +104,7 @@ Each time he’s targeted by an attack, roll to see if it hits an illusion.
 
 ---
 
-### 🌿 **Special Ability: Rooted Channel (Recharge 5–6)**
+###  **Special Ability: Rooted Channel (Recharge 5–6)**
 
 **Effect:** 15 ft radius necrotic burst; DC 13 DEX save, 2d8 necrotic (half on success).  
 Area becomes difficult terrain (writhing roots).  
