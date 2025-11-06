@@ -25,6 +25,3 @@ Ijzeren gate (lockpick DC15, STR DC18, 2x falen = 1 skelly, 2 archers).
 **Reward**
 [[Chromatic rose]]
 [[]]
-
-
-![[Sanctum of Xibalba - Jungle - Dark - 46x34 - 300 DPI.jpg]]
