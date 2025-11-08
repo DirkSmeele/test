@@ -7,7 +7,7 @@ tags:
 2x Vine Blight
 
 
-EXP Total; 1625
+EXP Total; 1100
 
 ## 🩸 **Mini Shambling Mound (“Rotspawn”)**
 
@@ -57,6 +57,19 @@ _Medium Plant, Neutral Evil – CR 1/2 (100 XP)_
 **Condition Immunities:** Blinded, Deafened  
 **Senses:** Blindsight 60 ft. (blind beyond this radius), passive Perception 10  
 **Languages:** understands Common but can’t speak
+
+### **Actions**
+
+**Constrict.** _Melee Weapon Attack:_ +4 to hit, reach 10 ft., one target.  
+_Hit:_ 9 (2d6 + 2) bludgeoning damage, and the target is **grappled** (escape DC 12).  
+Until the grapple ends, the target is **restrained**, and the blight can’t constrict another target.
+
+**Entangling Plants (Recharge 5–6).**  
+Grasping roots and vines sprout in a 15-foot radius centered on the blight.  
+For 1 minute, that area is **difficult terrain**.  
+Each creature in the area when the effect begins must succeed on a **DC 12 Strength save** or become **restrained**.  
+A creature can use its action to make a DC 12 Strength check, ending the effect on itself on a success.  
+The effect ends if the blight is incapacitated or killed.
 
 **Challenge:** 1/2 (100 XP)
 
