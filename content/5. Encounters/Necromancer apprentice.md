@@ -109,3 +109,69 @@ Each time he’s targeted by an attack, roll to see if it hits an illusion.
 **Effect:** 15 ft radius necrotic burst; DC 13 DEX save, 2d8 necrotic (half on success).  
 Area becomes difficult terrain (writhing roots).  
 **Flavor:** The corruption beneath the ground lashes upward, hungry for life.
+
+
+## 1. **Vijf kant-en-klare “moments” tijdens het gevecht**
+
+Gebruik er 1–3, afhankelijk van pacing:
+
+### **💀 Moment 1 — Necrotic Surge (Start of fight)**
+
+Wanneer de spelers binnenkomen:
+
+> _“Eindelijk… verse stemmen die de whispers kunnen overstimmen…”_  
+> Zijn ogen lichtten groen op, schedels trillen op de grond, een pulse schiet door de kamer.
+
+Effect (éénmalig):
+
+- Alle PCs doen een **DC 12 Con save** of krijgen **1d4 necrotic damage** en **verliezen 5 ft movement** voor 1 ronde.
+    
+- Niet dodelijk, maar direct sfeer.
+    
+
+---
+
+### **🦴 Moment 2 — Skeleton-Spill**
+
+Als hij voor het eerst onder 50% HP komt:
+
+> “NEE! Blijf bij me!”  
+> 1D2 extra skeletons klimmen uit het puin (snelle add wave).
+
+---
+
+### **🌫 Moment 3 — Shadow Step**
+
+1× per fight (reaction):  
+Wanneer iemand hem hit met een melee attack:
+
+- Hij teleporteert **10 ft** naar een donkere hoek.
+    
+- Laat een “necrotic echo” achter die **1 necrotic damage** doet aan iedereen binnen 5 ft.
+    
+
+Visueel cool, mechanisch klein.
+
+---
+
+### **🩸 Moment 4 — Panic Ritual**
+
+Wanneer een PC een nat 20 hit, of hij onder 25% HP komt:
+
+> “No… Not again… Spirits, TAKE THEM INSTEAD!”
+
+- Hij cast **False Life** (lvl 2 → +8 temp HP)
+    
+- De kamer pulse’t → dim light → moeilijker zicht voor 1 ronde (creepy vibe zonder complicatie).
+    
+
+---
+
+### **👁 Moment 5 — Last Words**
+
+Niet om hem verdrietig te maken, maar _intrigue_ te starten:
+
+> “The corruption… it’s not ours… We’re just the first to hear it whisper…”  
+> “He… deeper under the roots… He _wakes_…”
+
+Plot breadcrumb klaar.

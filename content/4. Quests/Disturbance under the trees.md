@@ -22,7 +22,10 @@ Boss room; Een altaar met de [[Necromancer apprentice]], 2 sarcofogi.
 
 https://www.owlbear.rodeo/room/YGMgO-y4-h8v/The%20Calm%20Club
 
-
+Terwijl de Apprentice sterft, schiet een donkere energie als een ademzucht uit zijn ribbenkast. Eén boek glijdt uit zijn robes.  
+Het valt open…  
+En je bard hoort **een zachte klok** slaan — één keer.  
+De pagina’s bewegen alsof ze staan te wachten.
 
 
 **Pages of interest**
