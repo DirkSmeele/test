@@ -9,7 +9,7 @@ Items:
 [[Bloodbound totem]]
 
 Gesprek met [[Erwel]] over de corrupties
-- [[Overgrowth]] - Paarse begroeiing van [[Sylvarra]]'s roots
+- [[Sylvarra/content/7. General information/Corruptions/Overgrowth]] - Paarse begroeiing van [[Sylvarra]]'s roots
 - [[Blood Curse]] - Ondergrondse aderen van blood ore 
 - [[Necromancy]] - Onvolledige herrijzing door magie
 
