@@ -4,7 +4,7 @@ tags: DM_notes
 ---
 	02/05/2026
 
-[[Verdant dragon Encounter]]
+[[Verdant Dragon encounter]]
 [[Heart of the verdant path]]
 
 
