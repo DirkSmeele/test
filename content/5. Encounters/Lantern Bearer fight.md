@@ -1,10 +1,10 @@
-# ⚔️ Ossuary Knight
+# ⚔️ 2xOssuary Knight
 
-_CR 4 (1.100 XP)_
+_CR 3 (700 XP)_
 
 Elite commander.
-**AC** 18
-**HP** 82
+**AC** 17
+**HP** 67
 
 STR 18 +4
 DEX 10 
@@ -12,14 +12,54 @@ CON 16 +3
 ### Multiattack
 2 Greatsword attacks
 ### Greatsword
-+7
-2d6+4 slashing
++6
+2d6+2 slashing
 +1d6 necrotic
 ### Shield Bash
 Bonus Action
-+7
-1d6+4
-DC15 STR Prone.
++5
+1d6+2
+DC14 STR Prone.
+
+---
+# 2x Grave Channeler
+
+_CR 2 (450 XP)_
+De "officier" onder de mages.
+**AC** 14
+**HP** 40
+### Multiattack
+2 Bone Bolts
+### Bone Bolt
++5
+2d8 necrotic
+
+---
+### Raise Bones (Recharge 6)
+
+Brengt één Skeleton Legionnaire terug op **10 HP**.
+
+---
+### Bone Spear
+
+Recharge 5-6
+Lijn van 30 ft.
+DC13 DEX
+3d6 piercing.
+
+---
+
+### Passive
+
+### Death Echo (1/day)
+
+Wanneer een Skeleton Legionnaire binnen 30 ft sterft:
+
+De Adept mag als reactie één Bone Bolt afvuren.
+
+
+
+
 
 ### Lantern Bearer (Spellcaster Variant)
 

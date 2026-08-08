@@ -1,6 +1,41 @@
 2x Grave channeler
 4x Legionnaire
 
+#  Skeleton Legionnaire
+
+_Medium Undead, CR 1/2 (100 XP)_  
+_Gebaseerd op Skeleton_
+
+**AC** 16 (Chain Shirt, Shield)  
+**HP** 22 (4d8+4)  
+**Speed** 30 ft
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|14 (+2)|14 (+2)|12 (+1)|6 (-2)|8 (-1)|5 (-3)|
+
+**Saving Throws** Con +3
+**Damage Vulnerabilities** Bludgeoning
+**Damage Immunities** Poison
+**Condition Immunities** Exhaustion, Poisoned
+**Senses** Darkvision 60 ft
+
+---
+
+### Shortsword
++4 to hit
+Hit: **1d6+2** piercing
+### Spear (Thrown)
+20/60 ft
++4
+Hit: **1d6+2**
+### Shield Wall
+Als een andere Legionnaire binnen 5 ft staat:
+- +2 AC
+- Advantage op STR saves tegen shove/prone
+
+
+
 Succes; binnen 4 rondes.
 # 💀 Grave Channeler
 
@@ -38,36 +73,3 @@ DC13 DEX
 Wanneer een Skeleton Legionnaire binnen 30 ft sterft:
 
 De Adept mag als reactie één Bone Bolt afvuren.
-
-### Skeleton Legionnaire
-
-_Medium Undead, CR 1/2 (100 XP)_  
-_Gebaseerd op Skeleton_
-
-**AC** 16 (Chain Shirt, Shield)  
-**HP** 22 (4d8+4)  
-**Speed** 30 ft
-
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|14 (+2)|14 (+2)|12 (+1)|6 (-2)|8 (-1)|5 (-3)|
-
-**Saving Throws** Con +3
-**Damage Vulnerabilities** Bludgeoning
-**Damage Immunities** Poison
-**Condition Immunities** Exhaustion, Poisoned
-**Senses** Darkvision 60 ft
-
----
-
-### Shortsword
-+4 to hit
-Hit: **1d6+2** piercing
-### Spear (Thrown)
-20/60 ft
-+4
-Hit: **1d6+2**
-### Shield Wall
-Als een andere Legionnaire binnen 5 ft staat:
-- +2 AC
-- Advantage op STR saves tegen shove/prone

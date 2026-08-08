@@ -28,4 +28,4 @@ De mensen in Elandor zijn in een periode van rouw, en de paniek begint zijn weg 
 [[Castle gate fight]]
 [[Lantern bearer chase]]
 [[Lantern Bearer fight]]
-[[Mini Town]]
+[[Mini Town (Whispermill)]]
