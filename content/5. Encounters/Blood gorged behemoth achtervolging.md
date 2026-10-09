@@ -18,6 +18,8 @@ _Large monstrosity (aberration), neutral evil_
 - **Senses:** Darkvision 60 ft., Blindsight 30 ft. (ruikt vers bloed), passive Perception 11
 - **Challenge:** 4 (1.100 XP) | **Proficiency Bonus:** $+2$
 
+((3x1100)x2)/5 = 1312xp
+
 - **Multiattack:** De Bloodstalker maakt twee aanvallen: één met zijn **Thorn-Bite** en één met zijn **Gore-Tendrils**.
     
 - **Thorn-Bite:** _Melee Weapon Attack:_ $+5$ to hit, reach 5 ft., 1 target.
